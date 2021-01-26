@@ -1,0 +1,200 @@
+.Button1{
+    color:white;
+    background-color: #2E42A8;
+    border-color:#2E42A8;
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px #2E42A8;
+    padding: 14px 28px;
+    cursor: pointer;
+}
+
+.dropdown{
+    background-color:white;
+    color: lightslategrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.LinkButton1{
+    color: lightslategrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.LinkButton2{
+    color: lightslategrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h3{
+    color:#2E42A8;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h4{
+    color:#2E42A8;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.para{
+    font-size: small;
+    color:lightslategrey;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.top-buffer { 
+    margin-top:150px; 
+  }
+
+  .pic3{
+      position: relative;
+      bottom: 220px;
+  }
+
+  .pic4{
+    position: relative;
+    bottom: 220px;
+}
+
+#nav-select {
+    visibility: hidden;
+  }
+
+  #hviz2 {
+    visibility: hidden;
+}
+
+#img_5 {
+    visibility: hidden;
+}
+
+#img_6 {
+    visibility: hidden;
+}
+
+#img_7 {
+    visibility: hidden;
+}
+
+#img_8 {
+    visibility: hidden;
+}
+
+
+#h_ss {
+    visibility: hidden;
+}
+
+#fig2 {
+    visibility: hidden;
+}
+
+#p3 {
+    visibility: hidden;
+}
+
+#p4 {
+    visibility: hidden;
+}
+
+#h_bs {
+    visibility: visible;
+}
+
+#fig1 {
+    visibility: visible;
+}
+
+#p1 {
+    visibility: visible;
+}
+
+#p2 {
+    visibility: visible;
+}
+
+  @media (max-width: 767px) {
+      #navbar {
+        visibility: hidden;
+      }
+    
+      #nav-select {
+        visibility: visible;
+        position:absolute;
+        left: 500px;
+      }
+    
+      #hviz {
+        visibility: hidden;
+    }
+
+      #img_1 {
+          visibility: hidden;
+      }
+
+      #img_2 {
+        visibility: hidden;
+    }
+
+    #img_3 {
+        visibility: hidden;
+    }
+
+    #img_4 {
+        visibility: hidden;
+    }
+
+    #hviz2 {
+        visibility: visible;
+    }
+
+    #img_5 {
+        visibility: visible;
+    }
+    
+    #img_6 {
+        visibility: visible;
+    }
+    
+    #img_7 {
+        visibility: visible;
+    }
+    
+    #img_8 {
+        visibility: visible;
+    }
+
+    #h_ss {
+        visibility: visible;
+    }
+
+    #fig2 {
+        visibility: visible;
+    }
+
+    #p3 {
+        visibility: visible;
+    }
+
+    #p4 {
+        visibility: visible;
+    }
+
+    #h_bs {
+        visibility: hidden;
+    }
+    
+    #fig1 {
+        visibility: hidden;
+    }
+    
+    #p1 {
+        visibility: hidden;
+    }
+    
+    #p2 {
+        visibility: hidden;
+    }
+
+    }
+
+
